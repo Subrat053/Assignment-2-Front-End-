@@ -32,7 +32,11 @@
     color: white;
     background-color: palevioletred;
 }
-
+.Workspace_name{
+    padding-left: 8px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
 .navbar-search {
     border: 2px solid gray;
 }
